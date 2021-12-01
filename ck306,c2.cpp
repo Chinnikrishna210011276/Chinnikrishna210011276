@@ -6,6 +6,6 @@ int main()
 	c=a;
 	a=b;
 	b=c;
-	printf("The values of values after swapping %d : %d",a,b);
+	printf("The values  after swapping %d : %d",a,b);
 	return 0;
 }
